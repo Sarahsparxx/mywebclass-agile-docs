@@ -108,7 +108,13 @@ further than MyWebClass! Our platform provides an integrated learning experience
 business processes to provide realistic scenarios for students to learn technology in a hands-on real world environment.
 
 ## Agile Project Documentation
+
+1. Project Management Framework and Toolset
+2. technical and legal requirements for using Google Analytics
+3. Version Control System and Continuous Integration/Delivery Pipeline
+4. scope and objectives of the project
 5. important aspects of website design and development
+
 ### Templates - Modify these as necessary
 
 * [Theme Template](documentation/templates/theme/theme_template.md)
