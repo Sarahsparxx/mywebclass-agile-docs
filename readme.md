@@ -112,6 +112,7 @@ business processes to provide realistic scenarios for students to learn technolo
 1. Project Management Framework and Toolset
 2. technical and legal requirements for using Google Analytics
 3. Version Control System and Continuous Integration/Delivery Pipeline
+4. scope and objectives of the project
 
 ### Templates - Modify these as necessary
 
