@@ -113,6 +113,7 @@ business processes to provide realistic scenarios for students to learn technolo
 2. technical and legal requirements for using Google Analytics
 3. Version Control System and Continuous Integration/Delivery Pipeline
 4. scope and objectives of the project
+5. important aspects of website design and development
 
 ### Templates - Modify these as necessary
 
